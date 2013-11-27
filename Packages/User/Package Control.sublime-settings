@@ -1,0 +1,22 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alternative Autocompletion",
+		"CoffeeScript",
+		"CTags",
+		"DetectSyntax",
+		"EditorConfig",
+		"ERB Insert and Toggle Commands",
+		"Gist",
+		"Git",
+		"Grails",
+		"Modific",
+		"Package Control",
+		"RSpec",
+		"RubyTest",
+		"SCSS",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}
